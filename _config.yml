@@ -1,0 +1,10 @@
+title: OmnissiahTech
+description: A small studio exploring practical uses of AI across everyday software.
+url: https://omnissiahtech.com
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+  - .bundle
